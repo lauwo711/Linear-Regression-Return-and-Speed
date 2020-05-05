@@ -8,5 +8,5 @@ Main.ipynb                 - The regression analysis<br>
 https://github.com/lauwo711/Linear-Regression-Return-and-Speed/blob/master/Main.ipynb<br>
 Scrap Data.ipynb           - Crawl S&P500 data<br>
 https://github.com/lauwo711/Linear-Regression-Return-and-Speed/blob/master/Scrap%20Data.ipynb<br>
-Regression Functions.ipynb - Functions for tests and regression, also includes shortnotes on OLS, WLS and Robust Regression.<br>
+Regression Functions.ipynb - Functions for tests and regression, included notes of OLS, WLS and Robust Regression.<br>
 https://github.com/lauwo711/Linear-Regression-Return-and-Speed/blob/master/Regression%20Functions.ipynb<br>
